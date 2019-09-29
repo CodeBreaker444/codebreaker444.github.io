@@ -1,7 +1,23 @@
+language: ruby
+rvm:
+- 2.6.3
+
+install: gem install jekyll html-proofer jekyll-sitemap
+script: build.sh
+
+# branch whitelist
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
 deploy:
-     provider: pages
-     skip_cleanup: true
-     github_token: $GITHUB_TOKEN
-     keep_history: true
-     on:
-         branch: master
+  skip_cleanup: true
+  provider: script
+  script: deploy.sh
+  on:
+    branch: master
