@@ -1,6 +1,4 @@
 #!/bin/bash
-  git init
-
   git config user.name "codebreaker444"
   git config user.email "zeroerror.444@gmail.com"
 
