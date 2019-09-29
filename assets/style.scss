@@ -389,13 +389,18 @@ nav {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 89px;
+  height: 100px;
   background-color: $lightGray;
 }
 
 footer {
-  padding: 20px 0;
+  padding-top:20px;
   text-align: center;
+}
+.aboutme{
+    font-family: $helveticaNeue;
+    font-weight: 300;
+
 }
 
 body:after {

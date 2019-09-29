@@ -4,7 +4,7 @@ title: Why?
 permalink: /why/
 ---
 
-The most obvious question in this world is why. Whether it is relative to put this in here or not but i don't care because i implement my rules as it is stated above. I'll explain some questions which came into my mind when resuming(cbstartech.com was my previous blog) my blogging.
+The most obvious question in this world is why. Whether it is relative to put this in here or not but i don't care because i implement my rules as it is stated above. I'll explain some questions which came into my mind when resuming (cbstartech was my previous blog) my blogging.
 
 ## Why blogging?
 
