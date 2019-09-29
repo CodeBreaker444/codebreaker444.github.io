@@ -1,5 +1,5 @@
-I"‘<div id="search-container">
-    <input type="text" id="search-input" placeholder="Search through the blog posts..." />
+I"‹<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search through my ideas..." />
     <ul id="results-container"></ul>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack into Internet cafe WIFI connection with this trick even it is disabled -Pretty Easy
+title: Hack into Internet🌐 cafe WIFI connection with this trick even it is disabled -Pretty Easy
 categories: [Hacking, Password]
 ---
 

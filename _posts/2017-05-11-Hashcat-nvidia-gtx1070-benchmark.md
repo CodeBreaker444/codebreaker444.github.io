@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hashcat Nvidia GeForce GTX 1070 Benchmark,No bottlenecking (Updated!)
+title: Hashcat Nvidia GeForce GTX 1070 Benchmark🚄, No bottlenecking🍾 (Updated!)
 categories: [Hacking, Benchmarks]
 ---
 
