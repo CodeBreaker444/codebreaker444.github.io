@@ -1,7 +1,5 @@
-  
 #!/bin/bash
-
-if [[ $TRAVIS_BRANCH == 'master' ]] ; then
+if [ $TRAVIS_BRANCH == 'master' ]  then
   cd _site
   git init
 
