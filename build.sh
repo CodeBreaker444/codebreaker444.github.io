@@ -1,4 +1,3 @@
 #!/bin/bash
-
-jekyll build --config _config.yml
+jekyll build
 htmlproofer _site --url-ignore www.youtube.com
