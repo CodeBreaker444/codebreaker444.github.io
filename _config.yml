@@ -27,7 +27,7 @@ disqus:
 google_analytics: UA-73005973-1
 url: https://blog.govardhanchitrada.me
 enforce_ssl: https://blog.govardhanchitrada.me
-baseurl: "/codebreaker444.githhub.io"
+baseurl: ""
 
 permalink: /:title/
 
