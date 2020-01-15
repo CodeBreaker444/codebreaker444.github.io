@@ -10,15 +10,18 @@ I have watched all the seasons of all the series with the exception of 13 Reason
 3. MONEY HEIST (Robbery, planning) **Netflix** 
 4. WALKING DEAD (Action, addictive) **Netflix** 
 5. STRANGER THINGS (Strange, just watch it) **Netflix** 
-6. 13 REASONS WHY ( Depression, First Season is worth watching) **Netflix** 
-7. THE 100 ( Sci-fi, Survival) **Netflix** 
-8. FLASH (Real Science Facts, Interesting) **Netflix** 
-9. IRON FIST (Fantasy, Marvel) **Netflix** 
-10. TOM CLANCY'S JACK RYAN (Shooting bullets, Exciting) **Prime** 
-11. LIMITLESS (Sci-fi, Exciting) **Netflix** 
-12. SHOOTER (Sniping, Revenge) **Netflix** 
-13. BODYGUARD (Action, Interesting) **Netflix** 
-14. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
-15. THE RAIN (Virus, Dutch dubbed) **Netflix** 
-16. KUNG FU PANDA ( Fun, non-addictive) **Prime** 
-17. SEX EDUCATION ( Broad (not for this world), time pass) **Netflix** 
+6. 13 REASONS WHY (Depression, First Season is worth watching) **Netflix** 
+7. SALVATION (End of the world, Lot’s of tech) **Netflix**
+8. THE 100 ( Sci-fi, Survival) **Netflix** 
+9. FLASH (Real Science Facts, Interesting) **Netflix** 
+10. LOST IN SPACE (Space, Alien life) **Netflix**
+11. IRON FIST (Fantasy, Marvel) **Netflix** 
+12. TOM CLANCY'S JACK RYAN (Shooting bullets, Exciting) **Prime** 
+13. LIMITLESS (Sci-fi, Exciting) **Netflix** 
+14. SHOOTER (Sniping, Revenge) **Netflix** 
+15. BODYGUARD (Action, Interesting) **Netflix** 
+16. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
+17. RAISING DION (Super kid, Fun) **Netflix**
+18. THE RAIN (Virus, Dutch dubbed) **Netflix** 
+19. KUNG FU PANDA ( Fun, non-addictive) **Prime** 
+20. SEX EDUCATION ( Broad (not for this world), time pass) **Netflix** 
