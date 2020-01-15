@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:15/01/2020.
+title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:15/01/2020].
 categories: [Personal Life, Non-Tech]
 ---
 I have watched all the seasons of all the series with the exception of 13 Reasons why (It's too depressing and it's not my kind) and only completed one season. There are some series which didn't make it in the list because either i am in the middle of watching or I don't like them. Checkout these series if you are starting and maybe you'll like it too. 
