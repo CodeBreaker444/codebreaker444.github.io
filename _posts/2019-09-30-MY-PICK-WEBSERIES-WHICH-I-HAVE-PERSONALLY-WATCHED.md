@@ -16,12 +16,15 @@ I have watched all the seasons of all the series with the exception of 13 Reason
 9. FLASH (Real Science Facts, Interesting) **Netflix** 
 10. LOST IN SPACE (Space, Alien life) **Netflix**
 11. IRON FIST (Fantasy, Marvel) **Netflix** 
-12. TOM CLANCY'S JACK RYAN (Shooting bullets, Exciting) **Prime** 
-13. LIMITLESS (Sci-fi, Exciting) **Netflix** 
-14. SHOOTER (Sniping, Revenge) **Netflix** 
-15. BODYGUARD (Action, Interesting) **Netflix** 
-16. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
-17. RAISING DION (Super kid, Fun) **Netflix**
-18. THE RAIN (Virus, Dutch dubbed) **Netflix** 
-19. KUNG FU PANDA ( Fun, non-addictive) **Prime** 
-20. SEX EDUCATION ( Broad (not for this world), time pass) **Netflix** 
+12. THE GOOD DOCTOR (Surgical Residents, Autism) **Prime**
+13. TOM CLANCY'S JACK RYAN (Shooting bullets, Exciting) **Prime**
+14. MANIFEST (Suspense, Connected) **Prime**
+15. LIMITLESS (Sci-fi, Exciting) **Netflix** 
+16. COLONY (Aliens, Good Plot) **Netflix**
+17. SHOOTER (Sniping, Revenge) **Netflix** 
+18. BODYGUARD (Action, Interesting) **Netflix** 
+19. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
+20. RAISING DION (Super kid, Fun) **Netflix**
+21. THE RAIN (Virus, Dutch dubbed) **Netflix** 
+22. KUNG FU PANDA ( Fun, non-addictive) **Prime** 
+23. SEX EDUCATION ( Broad (not for this world), time pass) **Netflix** 
