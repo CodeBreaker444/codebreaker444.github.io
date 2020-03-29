@@ -23,10 +23,11 @@ footer-links:
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
+  shortname: C0d3Br3ak3r
 
 google_analytics: UA-73005973-1
-url: https://blog.govardhanchitrada.me
-enforce_ssl: https://blog.govardhanchitrada.me
+url: https://blog.govardhanchitrada.com
+enforce_ssl: https://blog.govardhanchitrada.com
 baseurl: ""
 
 permalink: /:title/
@@ -40,7 +41,7 @@ kramdown:
     css_class: 'highlight'
 
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :expanded
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
