@@ -38,7 +38,7 @@ My initial plan(This may change):
    - Installed the apk in the emulator and opened it, To my excitement the app has authentication and data is transmistted through the HTTPS protocol (It's encrypted!). Now checkout the below ~~vulnerability~~ vulnerabilities section👇🏻.
 
 ### Vulnerabilities💉
-- **<u>Bypassing the encryption🛡</u>**: Basically to monitor the traffic data from the app to the server the data shoulde be non-ecrypted data. Installing a custom cert will do the trick but the android api should be 23 or below. Reinstalling the Emulator with android 6.0, Setting up a proxy server to listen to the traffic has been completed. See the below authentication data.
+- **<u>Bypassing the encryption🛡</u>**: Basically to monitor the traffic data from the app to the server the data shoulde be non-encrypted data. Installing a custom cert will do the trick but the android api should be 23 or below. Reinstalling the Emulator with android 6.0, Setting up a proxy server to listen to the traffic has been completed. See the below authentication data.
 
 {% highlight json %}
 
@@ -82,8 +82,8 @@ Content-Length: 83
    - My options are limited now, i was frustrated with the lag in emulators and rooting the tv image everytime i restart as the root is non-persistance(don't ask me why, they havn't found a way to keep persistance in default android emulator). I was going through the other stuff in decompiled apk and found the assets folder.
 - **<u>Analysing the Assets📁</u>**: It looks interesting in the assets folder because there are html, js, css files and i have opened the index.html file in the browser and the whole APSFL layout opened in the browser💻,and checking the console logs which are huge. There is a gut feeling in me that we can crack it!
    - The working is simple, The authentication🛡 part is done by the android and the layouts, streaming are handled by the web part. They share data between them using some off-the-shelf library known as **TornadoApp**(weird name🧿).
-   - So the operation are all handled by javascript file named as "ap_fiber_stb.min.js" which is freaking 1.5 mb in size and it is 41,000 lines long. Anyways i started analysing the .js file, man! it's big. At last i have found out that it's deeply integrated with the android library and their is nothing i can do **THIRD BLOW-UP🤯**.
-- **<u>Java Script Time</u>**: In the browser i have observed that the js file has console logs everywhere. Another idea strike my mind, I can monitors these logs in realtime in the emulator by using a simple app known as **lOGCAT**.
+   - So the operations are all handled by javascript file named as "ap_fiber_stb.min.js" which is freaking 1.5 mb in size and it is 41,000 lines long. Anyways i started analysing the .js file, man! it's big. At last i have found out that it's deeply integrated with the android library and their is nothing i can do **THIRD BLOW-UP🤯**.
+- **<u>Java Script Time</u>**: In the browser i have observed that the js file has console logs everywhere. Another idea strike my mind, I can monitor these logs in realtime in the emulator by using a simple app known as **lOGCAT**.
 <p align="center"><img src="/images/apsfl/6.png" width="400"></p>
    - Basically app specific logs are blocked in a production apk, but the javascript present in the app is handled by the android webview, which by default omits the console logs. I analysed those logs and finally i managed to find a UDP url starting with *udp@//ipaddress*. I traced it back to the origin and found the file(json)[HAPPY ME😇] which has all the url's of every channel present in the APFIBER NET IPTV. **🤩JACKPOT🤩**
 
@@ -495,6 +495,6 @@ Swara Sagar  :  udp://@239.255.1.244:1234
 📄𝒩ℴ𝓉ℯ: Assessment of commercial companies requires a certification such as Certified Ethical Hacker(Not limited to CEH) but for personal tests not at all needed, go ahead. There are so many things i have not listed because the more you go the more it comes visible in this path. Find your own way and your own approach. Happy Hacking!!!!
 
 ### LINKS
-APSFL 5.1 (.apk): [Download Here](/assets/apsfl/cb_apsfl.apk)
+APSFL 5.1 (.apk): [Download Here](/assets/apsfl/cb_apsfl.apk) Only for reverse engineering or experimenting not for usage. it doesn't work on your device.
 <br>URL'S (.txt file) : [Download Here](/assets/apsfl/cb_channels.txt)
 <img src="/images/apsfl/1.png" width="500">
