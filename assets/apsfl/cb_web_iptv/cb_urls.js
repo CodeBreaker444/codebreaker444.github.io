@@ -1,5 +1,4 @@
-url="https://cbproxycors.herokuapp.com/http://103.211.109.68:8888/content02/SERVICE_ASSET_FILES/LTV/ltv_allchannellist_OTHER_DEVICE.json";
-//url_test="http://localhost/web_apfiber/chan.json"
+url="https://cbapi.herokuapp.com/cbapi/";
 var len;
 function append_json(data){
   var table = document.getElementById('gable');
@@ -15,7 +14,7 @@ function append_json(data){
       //tbody.appendChild('tr');
       tr.innerHTML =  '<td style="text-align:center;">' + data.Channel[i].channelNo+ '</td>' +
       '<td>' + data.Channel[i].name + '</td>' +
-      '<td style="text-align:center;" onclick="CopyMyLeftTd(this)">' + data.Channel[i].streamProfile[0].urltype[0].value + '</td>' +
+      '<td style="text-align:center;" onclick="CopyMyLeftTd(this)">' + data.Channel[i].url + '</td>' +
       '<td style="text-align:center;">' + data.Channel[i].language + '</td>';
       tbody.appendChild(tr);
   }
@@ -24,9 +23,9 @@ function append_json(data){
 fetch(url)
     .then(function(response){
         return response.json();
+
     })
     .then(function(data){
-        console.log(data['Channel'][0]['name']);
         var loader_main=document.getElementById('loader');
         loader_main.style.display="none"
         append_json(data);
