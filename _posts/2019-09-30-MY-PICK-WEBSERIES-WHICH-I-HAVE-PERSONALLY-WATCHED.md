@@ -1,17 +1,17 @@
 ---
 layout: post
-title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:03/04/2020].
+title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:06/05/2020].
 categories: [Personal Life, Non-Tech]
 ---
-I have watched all the seasons of all the series with the exception of 13 Reasons why (It's too depressing and it's not my kind) and only completed one season. There are some series which didn't make it in the list because either i am in the middle of watching or I don't like them. Checkout these series if you are starting and maybe you'll like it too. 
+I have watched all the seasons of all series with the exception of 13 Reasons why (It's too depressing and it's not my kind), only completed one season. There are some series which didn't make it in the list because either i am in the middle of watching or I don't like them. Checkout these series if you are starting and maybe you'll like it too. 
 
 1. MR.ROBOT (Hacking, personal pref.) **Prime** 
 2. PRISION BREAK (High IQ, knowledgeable) **Hotstar** 
 3. MONEY HEIST (Robbery, planning) **Netflix** 
 4. WALKING DEAD (Action, addictive) **Netflix** 
 5. STRANGER THINGS (Strange, just watch it) **Netflix** 
-6. 13 REASONS WHY (Depression, First Season is worth watching) **Netflix** 
-7. SALVATION (End of the world, Lot’s of tech) **Netflix**
+6. SALVATION (End of the world, Lot’s of tech) **Netflix**
+7. 13 REASONS WHY (Depression, First Season is worth watching) **Netflix** 
 8. THE 100 ( Sci-fi, Survival) **Netflix** 
 9. FLASH (Real Science Facts, Interesting) **Netflix** 
 10. LOST IN SPACE (Space, Alien life) **Netflix**
@@ -23,11 +23,13 @@ I have watched all the seasons of all the series with the exception of 13 Reason
 16. MANIFEST (Suspense, Connected) **Prime**
 17. DECEPTION (Magic, Planning) **Netflix**
 18. LIMITLESS (Sci-fi, Exciting) **Netflix** 
-19. COLONY (Aliens, Good Plot) **Netflix**
-20. SHOOTER (Sniping, Revenge) **Netflix** 
-21. BODYGUARD (Action, Interesting) **Netflix** 
-22. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
-23. RAISING DION (Super kid, Fun) **Netflix**
-24. THE RAIN (Virus, Dutch dubbed) **Netflix** 
-25. KUNG FU PANDA ( Fun, non-addictive) **Prime** 
-26. SEX EDUCATION ( Broad (not for this world), time pass) **Netflix** 
+19. THE EXPANSE (Space, War) **Prime**
+20. COLONY (Aliens, Good Plot) **Netflix**
+21. SHOOTER (Sniping, Revenge) **Netflix** 
+22. BODYGUARD (Action, Interesting) **Netflix** 
+23. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
+24. RAISING DION (Super kid, Fun) **Netflix**
+25. THE RAIN (Virus, Dutch dubbed) **Netflix**
+26. INTO THE NIGHT (Apocalypse, time pass) **Prime**
+27. KUNG FU PANDA ( Fun, non-addictive) **Prime** 
+28. SEX EDUCATION ( Broad (not for this world), time pass) **Netflix** 
