@@ -3,7 +3,7 @@ layout: post
 title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:17/06/2020].
 categories: [Personal Life, Non-Tech]
 ---
-I have watched all the seasons of all series with the exception of 13 Reasons why (It's too depressing and it's not my kind), only completed one season. There are some series which didn't make it in the list because either i am in the middle of watching or I don't like them. Checkout these series if you are starting and maybe you'll like it too. 
+I have watched all the seasons of all series with the exception of 13 Reasons why (It's too depressing and it's not my kind), only completed one season. There are some series which didn't make it in the list because either i am in the middle of watching or I don't like them. Checkout these series if you are in search of good series and maybe you'll like it too. 
 
 1. MR.ROBOT (Hacking, personal pref.) **Prime** 
 2. PRISION BREAK (High IQ, knowledgeable) **Hotstar** 
