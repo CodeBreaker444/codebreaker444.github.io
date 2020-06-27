@@ -17,7 +17,7 @@ I have watched all the seasons of all series with the exception of 13 Reasons wh
 10. THE BLACKLIST (American Crimes, Fascinating Twists) **Netflix** 
 11. LOST IN SPACE (Space, Alien life) **Netflix**
 12. ANOTHER LIFE (Expedition, Other beings) **Netflix**
-13. THE MENTALIST (Psychics, Best Plot) **Prime*
+13. THE MENTALIST (Psychics, Best Plot) **Prime**
 14. IRON FIST (Fantasy, Marvel) **Netflix** 
 15. THE GOOD DOCTOR (Surgical Residents, Autism) **Prime**
 16. THE MAGICIANS (Magical world, Feels like dream) **Netflix**
