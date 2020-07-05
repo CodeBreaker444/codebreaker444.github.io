@@ -31,11 +31,11 @@ I have watched all the seasons of all series with the exception of 13 Reasons wh
 24. BODYGUARD (Action, Interesting) **Netflix** 
 25. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
 26. HOW TO GET AWAY WITH MURDER (Boring at start, Suspense thriller) **Netflix**
-26. THE LAST SHIP (Action on Sea, Navy) **Prime**
-27. RAISING DION (Super kid, Fun) **Netflix**
-28. THE RAIN (Virus, Dutch dubbed) **Netflix**
-29. INTO THE NIGHT (Apocalypse, time pass) **Prime**
-30. SNOWPIERCER (Extinction, time pass) **Netflix**
-31. NEVER HAVE I EVER (HighSchool, Indo-American) **Netflix**
-32. KUNG FU PANDA (Fun, non-addictive) **Prime** 
-33. SEX EDUCATION (Broad (not for this world), time pass) **Netflix** 
+27. THE LAST SHIP (Action on Sea, Navy) **Prime**
+28. RAISING DION (Super kid, Fun) **Netflix**
+29. THE RAIN (Virus, Dutch dubbed) **Netflix**
+30. INTO THE NIGHT (Apocalypse, time pass) **Prime**
+31. SNOWPIERCER (Extinction, time pass) **Netflix**
+32. NEVER HAVE I EVER (HighSchool, Indo-American) **Netflix**
+33. KUNG FU PANDA (Fun, non-addictive) **Prime** 
+34. SEX EDUCATION (Broad (not for this world), time pass) **Netflix** 
