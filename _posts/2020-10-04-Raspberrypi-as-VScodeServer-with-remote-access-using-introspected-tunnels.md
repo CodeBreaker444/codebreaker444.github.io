@@ -4,6 +4,8 @@ title:  My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + 
 categories: [Networking, Raspberrypi]
 ---
 The problem started when trying to figure out a way to code on my IPAD📱 while traveling light or in my class. As you know iPad runs on much appreciated IPAD OS which is a major improvement when compared to previous-gen operating systems. But for developers like us, we need a native Linux environment for running our code to run. Let's see my solution now
+
+
 <p align="center"><img src="/images/vscode/1.jpg" width="400"></p>
 
 The things I've tried:
