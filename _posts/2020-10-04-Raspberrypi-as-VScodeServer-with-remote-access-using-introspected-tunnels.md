@@ -3,10 +3,8 @@ layout: post
 title:  My Remote Dev. Setup👨‍💻 = IPAD📱 + Raspberrypi🥧 + VScode + Ngrok + Telegram BOT🤖
 categories: [Networking, Raspberrypi]
 ---
-The problem started when trying to figure out a way to code on my IPAD📱 while traveling light or in my class. As you know iPad runs on much appreciated IPAD OS which is a major improvement when compared to previous-gen operating systems. But for developers like us, we need a native Linux environment for running our code to run. Let's see my solution now
+The problem started when trying to figure out a way to code on my IPAD📱 while traveling light or in my class. As you know iPad runs on much appreciated IPAD OS which is a major improvement when compared to previous-gen operating systems. But for developers like us, we need a native Linux environment for running our code. Let's dig into the solution
 
-
-<p align="center"><img src="/images/vscode/1.jpg" width="400"></p>
 
 The things I've tried:
 ### ⌛︎Emulation
@@ -23,8 +21,8 @@ The things I've tried:
 So, no to emulation no matter what the application offers. IPAD os is still not mature enough to support native linux emulation, may not be in future too.
 
 ## 〄Visual Studio Code + IPAD📱 + Raspberry PI🥧 = Production grade dev👨‍💻 environment
+<p align="center"><img src="/images/vscode/1.jpg" width="400"></p>
 
-<p align="center"><img src="/images/vscode/2.jpg" width="400"></p>
 Visual Studio Code is built using web technologies on top of Github's Electron. Electron is an app runtime for writing native apps that uses Chromium (which Google Chrome is built on) for rendering the interface and node. So, what I'm saying is visual studio code is a web app (I said in a simpler way).
 
 Basically we can run vscode server on raspberrypi on access it through the browser on ipad we can do all our work on rpi and just use ipad as client (It's the best way I can think of).
@@ -67,6 +65,7 @@ password: yourpass
 You can simple run code server by typing *code-server* in terminal hoping the path is set correctly. Now we can access vs code through ipad by typing the rpi ip followed by port. In my case ```192.168.1.210:8080```.
 
 ### ⌛︎<u>Accessing VS code remotely</u>
+<p align="center"><img src="/images/vscode/2.jpg" width="400"></p>
 
 - To access VS code remotely we need a static IP which is not provided by my ISP(premium feature) and moreover, we are behind a CGNAT-Carrier-Grade NAT (greedy ISP want more to put more clients under single static public IP). So, No port-forwarding.
 - Next plan is try to use reverse SSH tunneling and forward the HTTP traffic🚦 to our localhost 8080. But for this we need a server to act as a tunnel but there are some freely available services such as [localhost.run](https://localhost.run). Which does work great until I decided to automate this process.
