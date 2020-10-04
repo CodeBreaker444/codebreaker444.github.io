@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:05/07/2020].
+=======
+title: My Pick - Webseries📺 which I have watched, sorted based on their watchability [Updated:28/08/2020].
+>>>>>>> 4163203c987f3a004c3d13b65996f4690c20306b
 categories: [Personal Life, Non-Tech]
 ---
 I have watched all the seasons of all series with the exception of 13 Reasons why (It's too depressing and it's not my kind), only completed one season. There are some series which didn't make it in the list because either i am in the middle of watching or I don't like them. Checkout these series if you are in search of good series and maybe you'll like it too. 
@@ -25,6 +29,7 @@ I have watched all the seasons of all series with the exception of 13 Reasons wh
 18. MANIFEST (Suspense, Connected) **Prime**
 19. DECEPTION (Magic, Planning) **Netflix**
 20. LIMITLESS (Sci-fi, Exciting) **Netflix** 
+<<<<<<< HEAD
 21. THE EXPANSE (Space, War) **Prime**
 22. COLONY (Aliens, Good Plot) **Netflix**
 23. SHOOTER (Sniping, Revenge) **Netflix** 
@@ -39,3 +44,22 @@ I have watched all the seasons of all series with the exception of 13 Reasons wh
 32. NEVER HAVE I EVER (HighSchool, Indo-American) **Netflix**
 33. KUNG FU PANDA (Fun, non-addictive) **Prime** 
 34. SEX EDUCATION (Broad (not for this world), time pass) **Netflix** 
+=======
+21. HOW TO GET AWAY WITH MURDER (Suspense thriller, Good screenplay) **Netflix**
+22. THE EXPANSE (Space, War) **Prime**
+23. BANSHEE (Epic Fights, Action Packed) **Hotstar**
+24. COLONY (Aliens, Good Plot) **Netflix**
+25. SHOOTER (Sniping, Revenge) **Netflix** 
+26. BODYGUARD (Action, Interesting) **Netflix** 
+27. DESIGNATED SURVIVOR (Drama, Presidential Facts) **Netflix** 
+28. THE LAST SHIP (Action on Sea, Navy) **Prime**
+29. RAISING DION (Super kid, Fun) **Netflix**
+30. THE RAIN (Virus, Dutch dubbed) **Netflix**
+31. HOW TO SELL DRUGS ONLINE (Fun, Cool storyline) **Netflix**
+32. INTO THE NIGHT (Apocalypse, time pass) **Prime**
+33. SNOWPIERCER (Extinction, time pass) **Netflix**
+34. HOUSE OF CARDS (Political Drama, Time pass) **Netflix**
+35. NEVER HAVE I EVER (HighSchool, Indo-American) **Netflix**
+36. KUNG FU PANDA (Fun, non-addictive) **Prime** 
+37. SEX EDUCATION (Broad (not for this world), time pass) **Netflix** 
+>>>>>>> 4163203c987f3a004c3d13b65996f4690c20306b
