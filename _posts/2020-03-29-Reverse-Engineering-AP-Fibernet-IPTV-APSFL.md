@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vulnerability Assessment Writeup📄🕵️‍♀️☠️ --Reverse Engineering AP Fibernet IPTV (Watch Free TV)
-categories: [Hacking, Benchmarks]
+categories: [Hacking, Writeups]
 ---
 If you are here for the URL's go all the way to the bottom, you can find them there and also the instructions to play noooob!.
 This is an assessment writeup so, it will be *LONG* and in-depth. These writeups are written only after a patch has been released or some of the information is not disclosed to you and only use it for educational purpose.

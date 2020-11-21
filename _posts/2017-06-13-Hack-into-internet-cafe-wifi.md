@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hack into Internet🌐 cafe WIFI connection with this trick even it is disabled -Pretty Easy
-categories: [Hacking, Password]
+categories: [Hacking, Writeups]
 ---
 
 Important things to consider: The foremost thing is that this is not a hacking tutorial.Then what is it? It is a trick to gain access to a WIFI connection. It gives you the password or sometimes even the access to the whole network.

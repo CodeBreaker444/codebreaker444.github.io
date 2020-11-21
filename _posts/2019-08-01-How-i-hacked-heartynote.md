@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vulnerability Assessment Writeup📄🕵️‍♀️☠️ -How i hacked heartynote for complete account takeover
-categories: [Hacking, Benchmarks]
+categories: [Hacking, Writeups]
 ---
 This is an assessment writeup so, it will be short and in-depth. These writeups are written only after a patch has been released and only use it for educational purpose.
 
