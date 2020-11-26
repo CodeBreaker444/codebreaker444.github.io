@@ -15,11 +15,11 @@ Before we get into details, there are few things to consider:
 
 ### Approach:
 - Analysis (Mobile and Web platform which includes API’s).
-- Finding a vulnerability (zero-day hack)
-- Writing a payload (I have written a messy python script. It will be available in my github repo after cleaning the code a bit.)
-- Optimize the payload and isolate it in a v-env (Ex: Use systemwide VPN, Force ip-spoof in the payload, I used threading for faster execution)
-- Choosing a payload delivery method (I choose API endpoints to deliver the payload)
-- Start the execution (BOOM!!!)
+- Finding a vulnerability (zero-day hack).
+- Writing a payload (I have written a messy python script. It will be available in my github repo after cleaning the code a bit.).
+- Optimize the payload and isolate it in a v-env (Ex: Use systemwide VPN, Force ip-spoof in the payload, I used threading for faster execution).
+- Choosing a payload delivery method (I choose API endpoints to deliver the payload).
+- Start the execution (BOOM!!!).
 
 ### Analysis
 I started identifying the platform they using which includes next.js and backend API’s some are written in python and some are in other languages(which doesn’t matter excluding php). PHP is more vulnerable compared to these backend javascript frameworks such as express, next.js..etc. They are event based and are difficult to analyse and i did not choose the web platform because it is difficult to analyse the API’s there, so i went with the android platform. I used SSL-Unpinning to decrypt the json parameter and noted down the parameters and header names.
