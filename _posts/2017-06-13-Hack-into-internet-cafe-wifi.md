@@ -16,7 +16,7 @@ Important things to consider: The foremost thing is that this is not a hacking t
 First make sure that the target Internet Cafe has a wifi enabled router.if you are a noob and nothing knows about routers and related stuff.Follow this blind tip:Enter into the cafe and look for a device which has lights glowing like an Aeroplane lights and make sure that device has two sticks.
 
 ### Step-2:
-1. So,you have confirmed that the router has wifi then immediately take a computer for rent in that internet cafe for 30mins(Of course we only require 15mins).After that open Command Prompt by pressing > Windows+R
+1. So, you have confirmed that the router has wifi then immediately take a computer for rent in that internet cafe for 30mins(Of course we only require 15mins).After that open Command Prompt by pressing > Windows+R
 2. Then type cmd and press Enter
 3. Something should popup like this image below.(Mine is different so don’t worry.just make sure a block box with some letters are appeared)
 ![](/images/2017-06-13-Hack-into-internet-cafe-wifi-1.png)
