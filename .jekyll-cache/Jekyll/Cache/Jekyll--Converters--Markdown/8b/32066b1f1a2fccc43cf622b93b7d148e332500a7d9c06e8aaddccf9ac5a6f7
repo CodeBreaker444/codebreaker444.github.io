@@ -1,0 +1,8 @@
+I"<p>Implementing Optimistic Adaptive Acceleration For Optimization also
+known as Optimistic-AMSGrad can be a challenge when working with large datasets such as CIFAR-100. To reduce the training time which would take a pretty long time and need additional computing resources. We are using CIFAR-10 datasets which as 10 different categories of images containing a fair amount of 600 images per category. 
+As this is an extension for AMSGrad we have to compare the AMSGrad results with OPTIMISTIC-AMSGrad.
+Optimization algorithms are vastly used in various models such as
+Resnet18, Googlenet, Densenet, etc. In our implementation, we have used
+the Resnet18 model with Optimistic-AMSGrad and AMSGrad optimization
+algorithms which demonstrate that Optimistic-AMSGrad improves AMSGrad.</p>
+:ET
