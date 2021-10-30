@@ -1,4 +1,3 @@
-
 name: C0d3Br3ak3r
 author: C0d3Br3ak3r
 description: N3v3r Turn5 Back || My blog, My rules!
@@ -26,8 +25,8 @@ disqus:
   shortname: C0d3Br3ak3r
 
 google_analytics: UA-73005973-1
-url: https://blog.govardhanchitrada.com
-enforce_ssl: https://blog.govardhanchitrada.com
+url: https://codebreaker444.github.io
+enforce_ssl: https://codebreaker444.github.io
 baseurl: ""
 
 permalink: /:title/
@@ -41,7 +40,8 @@ kramdown:
     css_class: 'highlight'
 
 sass:
-  style: :compressed # You might prefer to minify using :expanded
+  sass_dir: _sass
+  style: compressed # You might prefer to minify using :expanded
 
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
