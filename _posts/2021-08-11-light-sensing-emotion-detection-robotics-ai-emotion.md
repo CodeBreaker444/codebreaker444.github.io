@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Human Interaction and Light🔦 sensing four-wheeld robot🤖 with Emotion Detection - Computer Vision
+title:  Human Interaction and Light🔦 sensing four-wheeled robot🤖 with Emotion Detection - Computer Vision
 categories: [Robotics, Artificial Intelligence]
 ---
 
