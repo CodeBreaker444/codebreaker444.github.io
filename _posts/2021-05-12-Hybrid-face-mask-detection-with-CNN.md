@@ -3,6 +3,7 @@ layout: post
 title:  Hybrid Convolutional Neural Network🧬 for Face Mask😷 detection and face cover detection🕵🏻‍♂️
 categories: [Artificial Intelligence, Deep learning]
 ---
+### In collaboration with [Matteo Ginesi](https://it.linkedin.com/in/matteo-ginesi), [Github](https://github.com/matginesi)
 
 The recent security needs due to the Covid − 19 pandemic have led to the creation of facial recognition systems that must extend further with respect to the normal capabilities of classic CNN solutions. Facial recognition networks usually exploit the presence of hidden features within the images, which are extracted from the convolutional layers and categorized with “fully connected layers” that return fundamental facial parameters or, in less complex applications, the presence or absence of a face in the image. 
 
